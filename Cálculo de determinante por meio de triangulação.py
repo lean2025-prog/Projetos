@@ -150,3 +150,4 @@ if __name__ == '__main__':
                     if event_resultado == sg.WIN_CLOSED or event_resultado == '-FECHAR_RESULTADOS-':
                         break
                 janela_resultados.close()
+                print(4)
